@@ -1,0 +1,95 @@
+URL,Type,Action,
+api.rubygems.org,Simple,Exempt,OK
+adfs.concentrix.com,Simple,Exempt,we can't reach this page.
+*ultimatecsr.com*,Wildcard,Exempt,we can't reach this page.
+*welcometoconcentrix.com*,Wildcard,Block,OK
+*welcometocnx.com*,Wildcard,Block,OK
+cnxu.concentrix.com,Simple,Block,OK
+*skillwsa*,Wildcard,Exempt,
+*skillport*,Wildcard,Exempt,
+*minacs.csod.com*,Wildcard,Block,Allowed 
+*tiny.cc*,Wildcard,Exempt,OK
+crashlytics.com,Simple,Exempt,OK
+*qualtrics.com*,Wildcard,Exempt,OK
+essentials.applesurveys.com,Simple,Exempt,OK
+*myworkday.com*,Wildcard,Block,we can't reach this page.
+*assessments.concentrix.com*,Wildcard,Block,OK
+*workday.com*,Wildcard,Block,OK
+*wd5.myworkday.com*,Wildcard,Block,we can't reach this page.
+*interactive-support.apple.com*,Wildcard,Exempt,we can't reach this page.
+readonly-community.concentrix.com,Simple,Block,OK
+*duosecurity.com*,Wildcard,Block,OK
+*liveupdate.symantec.com*,Wildcard,Block,OK
+,,,
+jfe-cdn.qualtrics.com,Simple,Exempt,HTTP 404 error
+*essentials.applesurveys.com*,Wildcard,Exempt,OK
+*akamai.com*,Wildcard,Exempt,OK
+*akamai.net*,Wildcard,Exempt,we can't reach this page
+surveys.apple.com/f/233009/38a0,Simple,Exempt,we can't reach this page
+*ghost.apple.com*,Wildcard,Exempt,we can't reach this page
+*myrewards.concentrix.com*,Wildcard,Block,we can't reach this page
+*interactive-support.apple.com*,Wildcard,Exempt,we can't reach this page
+*symcd.com*,Wildcard,Exempt,we can't reach this page
+*geohopper.com*,Wildcard,Exempt,we can't reach this page
+*epweb.corp.apple.com*,Wildcard,Exempt,we can't reach this page
+*inbld14dlpep.concentrix.com*,Wildcard,Exempt,we can't reach this page
+*Gsx.apple.com*,Wildcard,Exempt,OK
+*cloudfront.ne*,Wildcard,Exempt,we can't reach this page
+*firebaseio.com*,Wildcard,Exempt,we can't reach this page
+*surveyanyplace.com*,Wildcard,Exempt,OK
+*gotestnow.com*,Wildcard,Exempt,OK
+*findhirekeep.com*,Wildcard,Exempt,OK
+*appleid.apple.com*,Wildcard,Exempt,OK
+*pwdtool-global.concentrix.com*,Wildcard,Block,we can't reach this page
+*helpdesk.concentrix.com*,Wildcard,Block,OK
+*support.concentrix.com*,Wildcard,Block,OK
+*gbiportal.corp.apple.com*,Wildcard,Exempt,we can't reach this page
+*developer.apple.com/contact/phone.php*,Wildcard,Exempt,OK
+*apple.com*,Wildcard,Exempt,OK
+*google.co.in*,Wildcard,Exempt,OK
+*apple-mapkit.com*,Wildcard,Exempt,we can't reach this page
+*code.jquery.com*,Wildcard,Exempt,OK
+*ocsp.thawte.com*,Wildcard,Exempt,OK
+*google.co.in*,Wildcard,Exempt,OK
+*sts.concentrix.com*,Wildcard,Exempt,we can't reach this page
+*cdn.apple-mapkit.com*,Wildcard,Exempt,HTTP 404 error
+*macworld.com*,Wildcard,Exempt,OK
+*wikihow.com*,Wildcard,Exempt,OK
+*mac-forums.com*,Wildcard,Exempt,OK
+*forums.macrumors.com*,Wildcard,Exempt,OK
+*.cnet.com/forums/mac-os/*,Wildcard,Exempt,Blocked
+,,,
+,,,
+,,,
+*zimbra-azure.concentrix.com/*,Wildcard,Exempt,we can't reach this page
+*/ps-hr.daksh.com/*,Wildcard,Block,we can't reach this page
+,,,
+*mypasswordportal.daksh.com*,Wildcard,Exempt,we can't reach this page
+*ccms.ultimatecsr.com/*,Wildcard,Exempt,OK
+,,,
+,,,
+*cnxmyrewards.performnet.com/*,Wildcard,Exempt,OK
+*myrewards.concentrix.com*,Wildcard,Exempt,OK
+*1.awardslinq.com/*,Wildcard,Exempt,we can't reach this page
+idesk.corp.apple.com*,Wildcard,Exempt,we can't reach this page
+lms.corp.apple.com/*,Wildcard,Exempt,we can't reach this page
+gather.corp.apple.com/*,Wildcard,Exempt,we can't reach this page
+locate.apple.com/*,Wildcard,Exempt,OK
+checkcoverage.apple.com/*,Wildcard,Exempt,checkcoverage.apple.com/*
+support.icloud.com/*,Wildcard,Exempt,we can't reach this page
+,,,
+concentrix.awardsworldwide.com,Simple,Block,we can't reach this page
+a248.e.akamai.net,Simple,Exempt,we can't reach this page
+*ultimatecsr.com,Wildcard,Exempt,we can't reach this page
+*symcb.com,Wildcard,Exempt,we can't reach this page
+s.mzstatic.com,Simple,Exempt,OK
+static.sharepointonline.com,Simple,Exempt,we can't reach this page
+excel.officeapps.live.com,Simple,Exempt,Blocked
+s1-excel-15.cdn.office.net,Simple,Exempt,Blocked
+*bbcollab.com,Wildcard,Exempt,we can't reach this page
+*skillwsa.com*,Wildcard,Exempt,we can't reach this page
+*skillport.com*,Wildcard,Exempt,OK
+*qualys.com*,Wildcard,Exempt,OK
+,,,
+,,,
+workadvantage.in,Simple,Block,OK
