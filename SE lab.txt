@@ -1,0 +1,15 @@
+https://netskopeus.okta.com/
+
+Your Okta username is dsharma@netskope.com
+
+Your Okta password is: P@ssw0rd1
+
+http://wp-west.npademo.com
+
+http://wp-east.npademo.com
+
+wp-east.npademo.com
+
+
+User  - testing@bizcarta.io
+Pass  - Testing@1357
